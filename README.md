@@ -44,5 +44,5 @@ Ejecutamos el botón VMware Workstation 16 Player y ya tenemos listo el aplicati
 
 ## Observaciones
 
-1. Primero debes ver si tu procesador es compatible para poder crear máquinas virtuales, en caso de no ser compatible el programa te dara errores, desde no ejecutarse hasta producir un volcado de memoria (pantallazo azul)
-2. Algunos computadores traen por defecto la opción de virtualización activa, en el caso de que no la tenga debes habilitar esta opcion en la bios de tu equipo, para eso debes buscar con la marca y modelo de tu equipo y ver cual es el botón para acceder a la Bios de tu equipo, en algunos casos es la tecla **ESC**, **F2**, **F10** y **Supr**
+1. Primero debes ver si tu procesador es compatible para poder crear máquinas virtuales, en caso de no ser compatible el programa te dará errores, desde no ejecutarse hasta producir un volcado de memoria (pantallazo azul)
+2. Algunos computadores traen por defecto la opción de virtualización activa, en el caso de que no la tenga debes habilitar esta opción en la BIOS de tu equipo, para eso debes buscar con la marca y modelo de tu equipo y ver cuál es el botón para acceder a la BIOS de tu equipo, en algunos casos es la tecla **ESC**, **F2**, **F10** o **Supr**
